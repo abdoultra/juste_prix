@@ -72,9 +72,8 @@ L’ensemble de la logique de l’application est contenu dans le fichier `main.
 
 ### Lancer le projet
 
-```bash
 flutter pub get
-flutter run
+flutter run -d chrome
 
 Compatibilité
 
@@ -82,10 +81,10 @@ Android
 iOS
 web
 
-Auteur
 
-Abdoulaye Traoré
-Étudiant en Bachelor Développement Web à MyDigitalSchool Paris
-Profil GitHub : https://github.com/abdoultra
-## Structure simplifiée
+## 👨 Auteur
+
+**Abdoulaye Traoré**  
+Étudiant en Dev
+📍 MyDigitalSchool Paris  
 
